@@ -1,4 +1,4 @@
-# Gemstone Price Prediction - Utkarsh Gaikwad
+# Gemstone Price Prediction**
 
 ### Introduction About the Data :
 
@@ -17,17 +17,18 @@ There are 10 independent variables (including `id`):
 * `y` : Diamond Y dimension
 * `x` : Diamond Z dimension
 
-Target variable:
+**Target variable:**
 * `price`: Price of the given Diamond.
 
-Dataset Source Link :
+**Dataset Source Link :**
+
 [https://www.kaggle.com/competitions/playground-series-s3e8/data?select=train.csv](https://www.kaggle.com/competitions/playground-series-s3e8/data?select=train.csv)
 
 ### It is observed that the categorical variables 'cut', 'color' and 'clarity' are ordinal in nature
 
 ### Check this link for details : [American Gem Society](https://www.americangemsociety.org/ags-diamond-grading-system/)
 
-# AWS Deployment Link :
+# **AWS Deployment Link :**
 
 AWS Elastic Beanstalk link : [http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/](http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/)
 
@@ -45,9 +46,9 @@ Link for YouTube Video : Click the below thumbnail to open
 
 API Link : [http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/predictAPI](http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/predictAPI)
 
-# Postman Testing of API :
+# **Postman Testing of API :**
 
-![API Prediction](./Screenshots/APIPrediction.jpg)
+![image](https://user-images.githubusercontent.com/127007794/229346056-5bcdd67b-9ab2-4ad6-b202-0972392b4bb6.png)
 
 # Approach for the project 
 
